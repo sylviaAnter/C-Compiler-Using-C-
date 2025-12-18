@@ -44,3 +44,5 @@ Programming Language: C++
 Target Language: C
 
 Concepts: Compiler Design, Parsing, Tokenization, Symbol Table
+<img width="415" height="252" alt="image" src="https://github.com/user-attachments/assets/ae149dc6-266d-4f36-b291-3d2ae3d2f3ab" />
+
